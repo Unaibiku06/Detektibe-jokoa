@@ -1,0 +1,2 @@
+# Detektibe-jokoa
+Jokuaren programa
